@@ -1,7 +1,5 @@
 use context starter2024
 
-# THe above is copied from the "Fundies Scratch" repository to make sure I can use images.
-
 #|
    1. T-Shirt Shop. (I cannot include the symbol in the code so assume the total cost is
    calculated is in "pounds.")
